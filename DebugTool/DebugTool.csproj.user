@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\sd-41ns-6tag.nam.nsroot.net\webSite\Xpath\|\\sd-b2e0-7ec4.nam.nsroot.net\webSite\Xpath\|\\sd-b2e0-7ec4.nam.nsroot.net\d%24\webSite\Xpath\|\\shavnascsts0005\grp_tst\Users\SkyPei\Inject\|\\apachkwinrv7607\d%24\WebSites\test\</PublishUrlHistory>
+    <InstallUrlHistory>http://sd-41ns-6tag.nam.nsroot.net/Xpath/|http://sd-b2e0-7ec4.nam.nsroot.net/Xpath/|http://apachkwinrv7607.apac.nsroot.net/DebugTool/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\sd-41ns-6tag\WebSite\Xpath\</UpdateUrlHistory>
+    <BootstrapperUrlHistory>http://apachkwinrv7607.apac.nsroot.net/DebugTool/IEDriverServer.exe</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
